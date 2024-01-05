@@ -1,0 +1,299 @@
+<mjml>
+  <mj-head>
+    <mj-title>Leverage</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Calibri, sans-serif" padding="0" color="#222426"></mj-all>
+      <mj-text font-weight="400" font-size="16px" padding="0" color="#222426" line-height="25px"></mj-text>
+      <mj-section padding="0px 50px"></mj-section>
+      <mj-class name="" margin="76px 0 62px" />
+    </mj-attributes>
+    <mj-style>
+      *{box-sizing:border-box;}
+
+      .header-nav img{
+      background-color:white;
+      }
+      html{
+      font-size:1rem}
+      h1,h2,h3,p{margin:0}
+      .header-cta p{
+      padding:10px 16px !important;
+      }
+      .title h1{
+      font-size:36px;
+      line-height:1;
+      letter-spacing:-1.08px
+      }
+      .px-50{
+      padding-left:50px;
+      padding-right:50px;
+      }
+      @media (max-width:480px){
+
+      .header-logo img{
+      padding-bottom:10px;
+      }
+      .header-cta p{
+      padding:8px 12px !important;
+      }
+      .header-nav td{
+      text-align:center;
+      text-align:-webkit-center;
+      }
+      html{
+      font-size:0.5rem}
+      .px-50{
+      padding-left:0;
+      padding-right:0;
+      }
+      .px-1{
+      padding-left:16px;
+      padding-right:16px;
+      }
+
+      .title h1{font-size:28px;padding-right:40px}
+      .header-logo img{
+      width:90px !important;
+      height:auto;}
+      .header-nav{
+      padding:40px;
+
+      }
+      .header-nav td{
+      padding:0px !important;}
+
+      .subtitle p{
+      font-size:16px !important;
+      line-height:1.3 !important;
+      padding-right:40px;
+
+      }
+      .cta td{
+      height:46px !important;
+
+      }
+      .cta a{
+      font-size:14px !important;
+      }
+      .h30 div{
+      height:30px !important}
+      .list-icon img{
+      width:35px !important;
+      height:auto !important;
+      padding-bottom:10px;
+      }
+      .list-heading{
+      text-align:center;
+      font-size:15px !important;
+      line-height:1.3 !important;
+      }
+      .list-text{
+      text-align:center;
+      font-size:14px;line-height:1.3;
+      }
+      .list-content td{
+      padding-left:0 !important}
+      }
+
+
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#FAFAFA">
+    <mj-wrapper padding="76px 0 0">
+      <mj-section css-class="header-nav px-50" background-color="#fff" padding="50px 40px 40px">
+        <mj-column vertical-align="middle">
+          <mj-image css-class="px-50 header-logo" width="112px" align="left" padding="0" src="https://i.ibb.co/3dr8h9X/leverage-logo.png" alt="leverage-logo" border="0"></mj-image>
+        </mj-column>
+
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper css-class="px-50 px-1" background-color="white">
+      <mj-section padding="0 0 0 40px" background-color="#FAFAFA" border-radius="10px">
+
+        <mj-column vertical-align="middle">
+          <mj-text css-class="title" font-family="Times New Roman">
+            <h1 style="font-weight:bold;margin:30px 0 10px;">Earn up to 6.15% with annuities</h1>
+          </mj-text>
+          <mj-button href="/" align="left" height="42px" color="white" font-size="14px" font-weight="bold" border-radius="8px" padding-bottom="35px" background-color="#5ED28A">Get Your Free Quote</mj-button>
+        </mj-column>
+        <mj-column padding="24px 0 0" vertical-align="bottom">
+          <mj-image src="https://i.ibb.co/H2xHMSC/header-img-22.png" alt="header image" border="0"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section css-class="px-50" background-color="white">
+      <mj-column>
+        <mj-text align="center" font-weight="bold" padding-top="35px" font-size="17px">Compare rates from over 20 top-rated annuity companies</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="px-50" padding="20px 20px 35px" background-color="white">
+      <mj-column>
+        <mj-image height="25px" width="63.63px" padding="20px 0" src="https://i.ibb.co/SsjVMRR/lincoln-financial-group-logo.png" alt="lincoln-financial-group-logo"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="25px" width="103.52px" padding="20px 0" src="https://i.ibb.co/SfCTT8k/Mass-Mutual-Logo.png" alt="Mass-Mutual-Logo"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="25px" width="73.82px" padding="20px 0" src="https://i.ibb.co/mHYKy0c/Allianz-Logo.png" alt="Allianz-Logo"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="25px" width="69.87px" padding="20px 0" src="https://i.ibb.co/6JQz1Jp/Athene-Logo.png" alt="Athene-Logo"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0px 40px 0px" background-color="#fff">
+      <mj-column css-class="px-50">
+
+        <mj-text css-class="subtitle" padding-bottom="35px">
+          <p style="font-size:18px;line-height:25px;margin:0;">Whether you’re looking for lifetime income, safeguarding investments from market volatility, or planning for long term care costs, annuities can be a great solution for retirement income</p>
+        </mj-text>
+        <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Annuity Quotes</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="px-50" padding="0 40px 45px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-divider border-width="1px" padding-top="55px" padding-bottom="55px" border-color="#E2E2E2"></mj-divider>
+
+        <mj-text font-family="Times New Roman">
+          <h3 style='font-size:24px;'>Why consider annuities for retirement income?</h3>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="px-50" padding="0 40px 40px" background-color="#fff" text-align="left">
+      <mj-column width="12%">
+
+        <mj-image css-class="list-icon" width="45px" src="https://i.ibb.co/tcKBy3g/icon-large-lt-di-product-1.png"></mj-image>
+      </mj-column>
+      <mj-column width="88%" css-class="list-content" padding-left="20px">
+        <mj-text>
+          <h3 style="font-size:18px;line-height:1.1;margin-bottom:10px;" class="list-heading">Protection Against Market Fluctuations</h3>
+          <p class="list-text">Annuities provide a shield against volatility in the markets, ensuring your investment remains stable even during economic downturns</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="px-50" padding="0 40px 40px" background-color="#fff" text-align="left">
+      <mj-column width="12%">
+
+        <mj-image css-class="list-icon" width="45px" src="https://i.ibb.co/h7wDhpK/icon-large-lt-di-product-2.png"></mj-image>
+      </mj-column>
+      <mj-column width="88%" css-class="list-content" padding-left="20px">
+        <mj-text>
+          <h3 style="font-size:18px;line-height:1.1;margin-bottom:10px;" class="list-heading">Guaranteed Income for Life</h3>
+          <p class="list-text">Lifetime income guarantees alleviates the concern of depleting retirement funds, providing you with financial stability as long as you need it.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="px-50" padding="0 40px 40px" background-color="#fff" text-align="left">
+      <mj-column width="12%">
+
+        <mj-image css-class="list-icon" width="45px" src="https://i.ibb.co/FH7cNjX/icon-large-lt-di-product-3.png"></mj-image>
+      </mj-column>
+      <mj-column width="88%" css-class="list-content" padding-left="20px">
+        <mj-text>
+          <h3 style="font-size:17px;line-height:1.1;margin-bottom:10px;" class="list-heading">Provide Financial Security for Retirement</h3>
+          <p class="list-text">Annuities transform your savings into a steady stream of income, providing peace of mind and a reliable financial foundation for your retirement years</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="px-50" padding="0 40px 40px" background-color="#fff" text-align="left">
+      <mj-column width="12%">
+
+        <mj-image css-class="list-icon" width="45px" src="https://i.ibb.co/f0d63dL/icon-large-lt-di-product-4.png"></mj-image>
+      </mj-column>
+      <mj-column width="88%" css-class="list-content" padding-left="20px">
+        <mj-text>
+          <h3 style="font-size:18px;line-height:1.1;margin-bottom:10px;" class="list-heading">Funding Long Term Care Expenses</h3>
+          <p class="list-text">Annuities can strategically be used to cover long-term care expenses, ensuring you have the necessary funds when the need for care arises</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" css-class="px-50" padding="0 40px">
+      <mj-column>
+        <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="px-50" padding="0 40px 75px" background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#E2E2E2"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="px-50" padding="0 20px 35px" background-color="white">
+      <mj-column>
+        <mj-image height="25px" width="63.63px" padding="20px 0" src="https://i.ibb.co/SsjVMRR/lincoln-financial-group-logo.png" alt="lincoln-financial-group-logo"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="25px" width="103.52px" padding="20px 0" src="https://i.ibb.co/SfCTT8k/Mass-Mutual-Logo.png" alt="Mass-Mutual-Logo"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="25px" width="73.82px" padding="20px 0" src="https://i.ibb.co/mHYKy0c/Allianz-Logo.png" alt="Allianz-Logo"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="25px" width="69.87px" padding="20px 0" src="https://i.ibb.co/6JQz1Jp/Athene-Logo.png" alt="Athene-Logo"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section css-class="px-50" padding="0 40px 70px" background-color="white">
+
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#E2E2E2"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="px-50" padding="0 80px 48px" background-color="white">
+      <mj-column>
+        <mj-text color="white" align="center">
+          <a href="#" style="font-size:12px;color:#222426;text-decoration:none"> Terms of Use </a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="white" align="center">
+          <a href="#" style="font-size:12px;color:#222426;text-decoration:none"> Privacy Policy </a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="white" align="center">
+          <a href="#" style="font-size:12px;color:#222426;text-decoration:none"> Unsubscribe </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="px-50" padding="0 40px 48px" background-color="white">
+      <mj-column>
+        <mj-text align="center" font-size="14px">6464 Center Street, Suite 160 <br />
+          Omaha, NE 68106</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="px-50" padding="0 40px 75px" background-color="white">
+      <mj-column>
+        <mj-image css-class="px-50 header-logo" width="112px" align="center" padding="0" src="https://i.ibb.co/3dr8h9X/leverage-logo.png" alt="leverage-logo" border="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="46px">
+      <mj-column>
+        <mj-text color="#878D92" font-size="12px">Annuities are distributed by LeverageRx Insurance Services, LLC (“Leverage”), with its principal place of business in Omaha, NE. Leverage is a licensed independent insurance broker in all 50 states and operates in California under CA License #2109444 and in Arkansas under license #19172031. Before investing, consider the investment objectives, risks, charges, and expenses of the annuity and its investment options. Contact Leverage for a prospectus or, if available, a summary prospectus containing this information. Read it carefully. Guarantees apply to certain insurance and annuity products and are subject to product terms, exclusions and limitations and the insurer's claims paying ability and financial strength. Annuities are subject to the terms and conditions of the specific contract issued by the insurer, are not FDIC or NCUA insured, are not bank guaranteed, may lose value, and are not a savings deposit product. The information provided on this website is not intended as specific tax or legal advice and Leverage employees are not authorized to provide tax or legal advice. You are encouraged to seek advice from your own tax or legal professional.</mj-text>
+        <mj-text color="#878D92" font-size="12px" padding="20px 0 80px">
+          © 2023 LeverageRx, Inc.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
