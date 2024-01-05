@@ -18,7 +18,7 @@
       font-size:1rem}
       h1,h2,h3,p{margin:0}
       .title h1{
-      font-size:39px;
+      font-size:36px;
       line-height:1.2
       }
       .px-50{
@@ -41,7 +41,7 @@
       width:90px !important;
       height:auto;}
       .header-nav{
-      padding:40px;}
+      padding:40px 40px 0;}
       .header-nav td{
       padding:0px !important;}
 
@@ -82,8 +82,8 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#FAFAFA">
-    <mj-wrapper padding="76px 0 60px">
-      <mj-section css-class="header-nav px-50" background-color="#fff" padding="50px 40px 40px">
+    <mj-wrapper padding="76px 0 0px">
+      <mj-section css-class="header-nav px-50" background-color="#fff" padding="50px 40px 0px">
         <mj-column>
           <mj-image css-class="px-50 header-logo" width="112px" align="left" padding="0" src="https://i.ibb.co/3dr8h9X/leverage-logo.png" alt="leverage-logo" border="0"></mj-image>
         </mj-column>
@@ -92,25 +92,30 @@
       <mj-section css-class="px-50 px-1" background-color="white" padding="0" border-radius="10px">
         <mj-column padding="0px">
 
-          <mj-image src="https://i.ibb.co/N91D7L9/header-image.jpg" alt="header-image" border="0"></mj-image>
+          <mj-image src="https://i.ibb.co/47dBQwK/header-image-8.jpg" alt="header-image" border="0"></mj-image>
         </mj-column>
       </mj-section>
-      <mj-section padding="30px 40px 0px" background-color="#fff">
+      <mj-section padding="35px 40px 0px" background-color="#fff">
         <mj-column css-class="px-50">
           <mj-text css-class="title" font-family="Times New Roman">
-            <h1 style="font-weight:bold;margin:0">Lock in retirement with predictable, guaranteed income</h1>
+            <h1 style="font-weight:bold;margin:0">Secure retirement with guaranteed income for life</h1>
           </mj-text>
           <mj-text css-class="subtitle" padding-bottom="35px">
-            <p style="font-size:24px;line-height:30px;margin:0;margin-top:20px">See why annuities are one of the most secure investments for retirement</p>
+            <p style="font-size:24px;line-height:30px;margin:0;margin-top:20px">Whether you’re looking for lifetime income, safeguarding investments from market volatility, or planning for long term care costs, annuities can be a great solution for retirement income</p>
           </mj-text>
           <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
 
         </mj-column>
       </mj-section>
 
+      <mj-section css-class="px-50" padding="50px 40px 50px" background-color="white">
+        <mj-column>
+          <mj-divider border-width="1px" border-color="#E2E2E2"></mj-divider>
+        </mj-column>
+      </mj-section>
+
       <mj-section css-class="px-50" padding="0 40px 45px" background-color="#fff">
         <mj-column width="100%">
-          <mj-spacer css-class="h30" height="55px"></mj-spacer>
 
           <mj-text font-family="Times New Roman">
             <h3 style='font-size:23px;'>Why consider annuities for retirement income?</h3>
@@ -181,7 +186,16 @@
         </mj-column>
       </mj-section>
 
-      <mj-section css-class="px-50" padding="75px 20px 35px" background-color="white">
+      <mj-section css-class="px-50" padding="75px 40px 0" background-color="white">
+        <mj-column>
+          <mj-divider border-width="1px" border-color="#E2E2E2"></mj-divider>
+          <mj-text padding="0 40px" align="center" padding-top="35px" font-size="14px">Compare rates from over 20 top-rated annuity companies</mj-text>
+
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section css-class="px-50" padding="0 20px 35px" background-color="white">
         <mj-column>
           <mj-image height="25px" width="63.63px" padding="20px 0" src="https://i.ibb.co/SsjVMRR/lincoln-financial-group-logo.png" alt="lincoln-financial-group-logo"></mj-image>
         </mj-column>
@@ -230,7 +244,7 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section>
+    <mj-section padding-top="45px">
       <mj-column>
         <mj-text color="#878D92" font-size="12px">Annuities are distributed by LeverageRx Insurance Services, LLC (“Leverage”), with its principal place of business in Omaha, NE. Leverage is a licensed independent insurance broker in all 50 states and operates in California under CA License #2109444 and in Arkansas under license #19172031. Before investing, consider the investment objectives, risks, charges, and expenses of the annuity and its investment options. Contact Leverage for a prospectus or, if available, a summary prospectus containing this information. Read it carefully. Guarantees apply to certain insurance and annuity products and are subject to product terms, exclusions and limitations and the insurer's claims paying ability and financial strength. Annuities are subject to the terms and conditions of the specific contract issued by the insurer, are not FDIC or NCUA insured, are not bank guaranteed, may lose value, and are not a savings deposit product. The information provided on this website is not intended as specific tax or legal advice and Leverage employees are not authorized to provide tax or legal advice. You are encouraged to seek advice from your own tax or legal professional.</mj-text>
         <mj-text color="#878D92" font-size="12px" padding="20px 0 80px">

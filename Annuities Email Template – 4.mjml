@@ -7,6 +7,7 @@
       <mj-section padding="0px 50px"></mj-section>
       <mj-class name="" margin="76px 0 62px" />
     </mj-attributes>
+         <mj-preview>Protect your retirement with top-rated annuities</mj-preview>
     <mj-style>
       *{box-sizing:border-box;}
 
@@ -283,7 +284,7 @@
     </mj-section>
     <mj-section css-class="px-50" padding="0 40px 75px" background-color="white">
       <mj-column>
-        <mj-image css-class="px-50 header-logo" width="112px" align="center" padding="0" src="https://i.ibb.co/3dr8h9X/leverage-logo.png" alt="leverage-logo" border="0"></mj-image>
+        <mj-image css-class="px-50 header-logo" width="92px" align="center" padding="0" src="https://i.ibb.co/3dr8h9X/leverage-logo.png" alt="leverage-logo" border="0"></mj-image>
       </mj-column>
     </mj-section>
 
