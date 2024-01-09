@@ -124,28 +124,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section css-class="px-50" background-color="white">
-      <mj-column>
-        <mj-text align="center" padding-top="35px" font-size="15px">Compare rates from over 20 top-rated annuity companies</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section css-class="px-50" padding="10px 20px 35px" background-color="white">
-      <mj-column>
-        <mj-image height="25px" width="63.63px" padding="20px 0" src="https://i.ibb.co/SsjVMRR/lincoln-financial-group-logo.png" alt="lincoln-financial-group-logo"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image height="25px" width="103.52px" padding="20px 0" src="https://i.ibb.co/SfCTT8k/Mass-Mutual-Logo.png" alt="Mass-Mutual-Logo"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image height="25px" width="73.82px" padding="20px 0" src="https://i.ibb.co/mHYKy0c/Allianz-Logo.png" alt="Allianz-Logo"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image height="25px" width="69.87px" padding="20px 0" src="https://i.ibb.co/6JQz1Jp/Athene-Logo.png" alt="Athene-Logo"></mj-image>
-      </mj-column>
-    </mj-section>
-
-
-    <mj-section padding="0px 40px 0px" background-color="#fff">
+    <mj-section padding="40px 40px 0px" background-color="#fff">
       <mj-column css-class="px-50">
 
         <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Annuity Quotes</mj-button>
@@ -233,21 +212,7 @@
     </mj-section>
 
 
-    <mj-section css-class="px-50" padding="75px 20px 35px" background-color="white">
-      <mj-column>
-        <mj-image height="25px" width="63.63px" padding="20px 0" src="https://i.ibb.co/SsjVMRR/lincoln-financial-group-logo.png" alt="lincoln-financial-group-logo"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image height="25px" width="103.52px" padding="20px 0" src="https://i.ibb.co/SfCTT8k/Mass-Mutual-Logo.png" alt="Mass-Mutual-Logo"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image height="25px" width="73.82px" padding="20px 0" src="https://i.ibb.co/mHYKy0c/Allianz-Logo.png" alt="Allianz-Logo"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image height="25px" width="69.87px" padding="20px 0" src="https://i.ibb.co/6JQz1Jp/Athene-Logo.png" alt="Athene-Logo"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section css-class="px-50" padding="0 40px 75px" background-color="white">
+    <mj-section css-class="px-50" padding="75px 40px 70px" background-color="white">
       <mj-column>
         <mj-divider border-width="1px" border-color="#E2E2E2"></mj-divider>
       </mj-column>
