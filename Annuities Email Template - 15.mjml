@@ -101,7 +101,7 @@
           <mj-image css-class="px-50 header-logo" width="112px" align="left" padding="0" src="https://i.ibb.co/3dr8h9X/leverage-logo.png" alt="leverage-logo" border="0"></mj-image>
         </mj-column>
         <mj-column vertical-align="middle" width="50%">
-          <mj-button css-class="header-cta" align="right" background-color="transparent" color="#222426" border="2px solid #222426" border-radius="8px" padding="0" font-weight="bold" height="42px">Get Your Free Quote</mj-button>
+          <mj-button href="#" css-class="header-cta" align="right" background-color="transparent" color="#222426" border="2px solid #222426" border-radius="8px" padding="0" font-weight="bold" height="42px">Get Your Free Quote</mj-button>
         </mj-column>
       </mj-section>
     </mj-wrapper>
@@ -127,7 +127,7 @@
     <mj-section padding="40px 40px 0px" background-color="#fff">
       <mj-column css-class="px-50">
 
-        <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Annuity Quotes</mj-button>
+        <mj-button css-class="cta" href="#" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Annuity Quotes</mj-button>
 
       </mj-column>
     </mj-section>
@@ -207,7 +207,7 @@
     </mj-section>
     <mj-section background-color="#fff" css-class="px-50" padding="0 40px">
       <mj-column>
-        <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
+        <mj-button css-class="cta" href="#" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
       </mj-column>
     </mj-section>
 

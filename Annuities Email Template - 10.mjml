@@ -103,7 +103,7 @@
           <mj-text css-class="subtitle" padding-bottom="35px">
             <p style="font-size:24px;line-height:30px;margin:0;margin-top:20px">Whether you’re looking for lifetime income, safeguarding investments from market volatility, or planning for long term care costs, annuities can be a great solution for retirement income</p>
           </mj-text>
-          <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
+          <mj-button css-class="cta" href="#" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
 
         </mj-column>
       </mj-section>
@@ -182,7 +182,7 @@
       </mj-section>
       <mj-section background-color="#fff" css-class="px-50" padding="0 40px">
         <mj-column>
-          <mj-button css-class="cta" href="/" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
+          <mj-button css-class="cta" href="#" height="54px" width="100%" color="white" font-size="16px" font-weight="bold" border-radius="8px" background-color="#5ED28A">Get Your Free Quote</mj-button>
         </mj-column>
       </mj-section>
 
